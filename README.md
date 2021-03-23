@@ -1,2 +1,2 @@
 # GAProject
-rug game with Unity
+rpg game with Unity
