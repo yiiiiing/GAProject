@@ -1,2 +1,2 @@
 # GAProject
-rpg game with Unity
+platform game with Unity
